@@ -71,7 +71,7 @@ projects:
 
   assignments:
     - title: Runcaster
-      link: "http://runcaster.online"
+      link: "https://apps.apple.com/in/app/runcaster/id6449932078"
       tagline: "Runcaster is a cricket tech product. Follow your favorite matches live, with match scores and player stats on your lock and home screen."
       details: |
         Work directly with the client to get the requirements and handle both backend and frontend services.
