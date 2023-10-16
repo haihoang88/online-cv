@@ -28,7 +28,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    I am an honest and hard-working individual who can withstand working in a high pressure environment and adhere to strict deadlines. I can both work well individually or as part of a team. I am very passionate about computer science and love to work and stay on top of latest technologies, especially in web and mobile fields.
+    I am an honest and hard-working individual who can withstand working in a high pressure environment and adhere to strict deadlines. I can both work well individually or as part of a team. I am very passionate about computer science and love to work and stay on top of latest technologies, especially in mobile fields. I am willing to learn new technologies and adapt with the needed of the requirement.
 education:
   title: Education
   info:
@@ -65,7 +65,7 @@ experiences:
 projects:
   title: Projects
   intro: >
-    Handle over 30+ mobile projects from 2014 until now.
+    Handle over 30+ mobile projects from 2014 until now, most of which I took care of everything from getting the requirement, making estimation, managing team, comunicating with clients, researching, developing...
 
   assignments:
     - title: Runcaster
@@ -128,6 +128,15 @@ projects:
           - Daily meeting with other teams.
           - Main developer for iOS app
           - Completely redesign app UI from 1.x versions
+
+    - title: Jurnal
+      link: https://apps.apple.com/id/app/jurnal-mobile/id1289636276"
+      tagline: "Jurnal, the best online accounting application in Indonesia, provides automated solutions to simplify your bookkeeping, finances, and operational accounting needs."
+      details: |
+        Manage a team of 3 people working with Indonesia team to develop iOS + Android apps
+          - Daily meeting with other teams.
+          - Main developer for iOS app
+          - Convert codebase from Objective-C to Swift.
 
     - title: Glowie
       link: "https://reliasoftware.com/portfolio/glowie"
