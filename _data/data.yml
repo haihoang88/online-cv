@@ -10,7 +10,7 @@ sidebar:
   # Profile information
   name: Hoàng Nhật Hải
   tagline: Senior iOS Developer
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: hoangnhathai1988@gmail.com
@@ -70,7 +70,6 @@ projects:
   assignments:
     - title: Runcaster
       link: "http://runcaster.online"
-      time: 2023
       tagline: "Runcaster is a cricket tech product. Follow your favorite matches live, with match scores and player stats on your lock and home screen."
       details: |
         Work directly with the client to get the requirements and handle both backend and frontend services.
@@ -121,6 +120,15 @@ projects:
           - Review teammates commit before merging it to the main branches.
           - Handle communications between Vietnam and Indonesia teams.
 
+    - title: Talenta
+      link: "https://apps.apple.com/vn/app/talenta/id1459958693"
+      tagline: "Talenta is an Indonesian cloud-based HR Software that aims to help companies to simplify their HR processes, from attendance, leave requests, overtime, reimbursement and most importantly: payroll."
+      details: |
+        Manage a team of 2 people working with Indonesia team to develop iOS app
+          - Daily meeting with other teams.
+          - Main developer for iOS app
+          - Completely redesign app UI from 1.x versions
+
     - title: Glowie
       link: "https://reliasoftware.com/portfolio/glowie"
       tagline: "Glowie App is a Vietnam based talent content platform that creates opportunities for young talented people to show off their talents"
@@ -156,7 +164,7 @@ skills:
       level: 90%
 
     - name: Objective-C
-      level: 80%
+      level: 90%
 
     - name: Nodejs
       level: 60%
