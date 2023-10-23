@@ -92,6 +92,7 @@ projects:
         Work directly with client to get the requirements, handle backend and admin panel as well as work closely with Frontend dev to provide needed APIs
           - Gather requirements and manage one other Frontend dev
           - Setup backend and API services using NodeJs and MongoDB
+          - Document Backend API and share with others through Postman
           - Implement Admin Panel using React-Admin framework
           - Work with Frontend Dev to provide needed APIs
           - Send updates to Frontend through Socket and Firebase Messaging
