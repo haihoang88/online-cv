@@ -121,6 +121,7 @@ projects:
           - Daily meeting with other teams.
           - Receive requirements from Product, tackle any issues and share with other teammates
           - Implement both features and unit test for that features.
+          - Apply VIPER design pattern to make the code robust, clear and easy to test.
           - Review teammates commit before merging it to the main branches.
           - Handle communications between Vietnam and Indonesia teams.
 
@@ -149,7 +150,7 @@ projects:
         Manage a team of 5 people, get requirements, research tech and lead iOS engineer
           - Work with client to get the requirements
           - Investigate suitable technologies to handle various challenges for both iOS, Android and Backend
-          - Main iOS engineer.
+          - Main iOS engineer using MVVM design pattern with RxSwift.
           - Handle chat/comment with Socket
           - Handle In-app purchases
           - Handle Livestream through AntMedia services
