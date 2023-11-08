@@ -177,10 +177,10 @@ skills:
     - name: Swift
       level: 90%
 
-    - name: Objective-C
-      level: 70%
-
     - name: SwiftUI
+      level: 75%
+
+    - name: Objective-C
       level: 70%
 
     - name: Nodejs
