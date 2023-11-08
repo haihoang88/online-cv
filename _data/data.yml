@@ -178,13 +178,16 @@ skills:
       level: 90%
 
     - name: Objective-C
-      level: 90%
+      level: 80%
+
+    - name: SwiftUI
+      level: 60%
 
     - name: Nodejs
-      level: 60%
+      level: 50%
 
     - name: React-Admin
-      level: 60%
+      level: 50%
 
     - name: MongoDB
-      level: 60%
+      level: 50%
