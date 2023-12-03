@@ -32,12 +32,40 @@ career-profile:
     I am an honest and hard-working individual who can withstand working in a high pressure environment and adhere to strict deadlines. I can both work well individually or as part of a team.<br/>
     I am very passionate about computer science and love to work and stay on top of latest technologies, especially in mobile fields.<br/>
     I am willing to learn new technologies and adapt with the needed of the requirement. I have solid problem-solving skills and ability to troubleshoot and debug complex issues.
+    <br/>
+    <br/>
+    Besides native Swift, I also have basic knowledge of Flutter, can quickly learn other languages, framework to support develoment if needed.
 education:
   title: Education
   info:
     - degree: Bachelor degree from Advanced Program in Computer Science.
       university: Vietnam National University Ho Chi Minh City University of Science (HCMUS)
       time: 2008-2013
+
+skills:
+  title: Skills &amp; Proficiency
+
+  toolset:
+    - name: Swift
+      level: 90%
+
+    - name: SwiftUI
+      level: 65%
+
+    - name: Objective-C
+      level: 60%
+
+    - name: Nodejs
+      level: 50%
+
+    - name: React-Admin
+      level: 50%
+
+    - name: MongoDB
+      level: 50%
+
+    - name: Flutter
+      level: 30%
 
 experiences:
   title: Experiences
@@ -167,27 +195,5 @@ projects:
           - Get the requirement from the Product team
           - Handle connection with FlashAir card
           - Give command to FlashAir card through http connection
-          - Download video/photo from FlashAir card and save to device
+          - Download video/photo from FlashAir card and save to d evice
           - Fix bugs
-
-skills:
-  title: Skills &amp; Proficiency
-
-  toolset:
-    - name: Swift
-      level: 90%
-
-    - name: SwiftUI
-      level: 70%
-
-    - name: Objective-C
-      level: 60%
-
-    - name: Nodejs
-      level: 50%
-
-    - name: React-Admin
-      level: 50%
-
-    - name: MongoDB
-      level: 50%
