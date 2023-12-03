@@ -29,12 +29,11 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    I am an honest and hard-working individual who can withstand working in a high pressure environment and adhere to strict deadlines. I can both work well individually or as part of a team.<br/>
-    I am very passionate about computer science and love to work and stay on top of latest technologies, especially in mobile fields.<br/>
-    I am willing to learn new technologies and adapt with the needed of the requirement. I have solid problem-solving skills and ability to troubleshoot and debug complex issues.
+    I am an honest and hard-working individual who can thrive in a high-pressure environment and adhere to strict deadlines. I am capable of working well both independently and as part of a team.<br/>
+    I am very passionate about computer science and love staying on top of the latest technologies, especially in the mobile field. I am willing to learn new technologies and adapt to the requirements. I possess solid problem-solving skills and the ability to troubleshoot and debug complex issues.
     <br/>
     <br/>
-    Besides native Swift, I also have basic knowledge of Flutter, can quickly learn other languages, framework to support develoment if needed.
+    In addition to native Swift, I also have a basic knowledge of Flutter and can quickly learn other languages and frameworks to support development if needed.
 education:
   title: Education
   info:
@@ -74,14 +73,13 @@ experiences:
       time: August 2014 - Present
       company: Relia Software
       details: |
-        As a lead iOS and mobile engineer, I work closely with clients to collect/analyze requirement, provide solutions to complex issues, then translate them to technical approaches and share it with team members.
-          - Collect requirements from clients
-          - Analyze requirements, isolate complex problems that needs solutions.
-          - Provide solutions
-          - Change the requirements to tickets and share to team members
+        As a lead iOS and mobile engineer, I work closely with clients to collect and analyze requirements, provide solutions to complex issues, and then translate them into technical approaches, sharing them with team members. My responsibilities include:
+          - Collecting requirements from clients
+          - Analyzing requirements to isolate complex problems that require solutions, then provide solutions for those problems
+          - Converting requirements into tickets and sharing them with team members
           - Develop application myself
-          - Do acceptance testing to make sure the requirements are met.
-          - Do daily meetings with clients and teammates
+          - Conducting acceptance testing to ensure that requirements are met
+          - Participating in daily meetings with clients and teammates
     - role: Software Engineer
       time: June 2013 – July 2014
       company: Mobivi
@@ -96,7 +94,7 @@ experiences:
 projects:
   title: Projects
   intro: >
-    Handle over 30+ mobile projects from 2014 until now, most of which I took care of everything from getting the requirement, making estimation, managing team, comunicating with clients, researching, developing...
+    I have successfully managed over 30 mobile projects from 2014 until now, overseeing every aspect, including gathering requirements, making estimations, managing teams, communicating with clients, conducting research, and handling development.
 
   assignments:
     - title: Runcaster
