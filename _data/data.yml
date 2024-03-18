@@ -33,7 +33,7 @@ career-profile:
     I am very passionate about computer science and love staying on top of the latest technologies, especially in the mobile field. I am willing to learn new technologies and adapt to the requirements. I possess solid problem-solving skills and the ability to troubleshoot and debug complex issues.
     <br/>
     <br/>
-    In addition to native Swift, I also have a basic knowledge of Flutter and can quickly learn other languages and frameworks to support development if needed.
+    In addition to native Swift, I also have knowledge of Flutter and can quickly learn other languages and frameworks to support development if needed.
 education:
   title: Education
   info:
@@ -51,6 +51,9 @@ skills:
     - name: SwiftUI
       level: 65%
 
+    - name: Flutter
+      level: 65%
+
     - name: Objective-C
       level: 60%
 
@@ -63,14 +66,22 @@ skills:
     - name: MongoDB
       level: 50%
 
-    - name: Flutter
-      level: 30%
-
 experiences:
   title: Experiences
   info:
+    - role: Lead Mobile Developer
+      time: December 2023 - Present
+      company: AURA Intelligent living
+      details: |
+        As a lead iOS and mobile engineer, I work closely with clients to collect and analyze requirements, provide solutions to complex issues, and then translate them into technical approaches, sharing them with team members. My responsibilities include:
+          - Collecting requirements from clients
+          - Analyzing requirements to isolate complex problems that require solutions, then provide solutions for those problems
+          - Converting requirements into tickets and sharing them with team members
+          - Develop application myself
+          - Conducting acceptance testing to ensure that requirements are met
+          - Participating in daily meetings with clients and teammates
     - role: Lead Developer
-      time: August 2014 - Present
+      time: August 2014 - December 2023
       company: Relia Software
       details: |
         As a lead iOS and mobile engineer, I work closely with clients to collect and analyze requirements, provide solutions to complex issues, and then translate them into technical approaches, sharing them with team members. My responsibilities include:
