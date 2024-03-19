@@ -33,7 +33,9 @@ career-profile:
     I am very passionate about computer science and love staying on top of the latest technologies, especially in the mobile field. I am willing to learn new technologies and adapt to the requirements. I possess solid problem-solving skills and the ability to troubleshoot and debug complex issues.
     <br/>
     <br/>
-    In addition to native Swift, I also have knowledge of Flutter and can quickly learn other languages and frameworks to support development if needed.
+    In addition to native Swift, I also have knowledge of Flutter for cross platform development. 
+    <br/>
+    I also can quickly learn other languages and frameworks to support development if needed.
 education:
   title: Education
   info:
@@ -73,13 +75,11 @@ experiences:
       time: December 2023 - Present
       company: AURA Intelligent living
       details: |
-        As a lead iOS and mobile engineer, I work closely with clients to collect and analyze requirements, provide solutions to complex issues, and then translate them into technical approaches, sharing them with team members. My responsibilities include:
-          - Collecting requirements from clients
+        As a lead iOS and mobile engineer, I work with Project Manager to gather and analyze requirement, assign responsibilities for the team, and join the development process myself. My responsibilities include:
+          - Collecting requirements from Project Manager
           - Analyzing requirements to isolate complex problems that require solutions, then provide solutions for those problems
-          - Converting requirements into tickets and sharing them with team members
-          - Develop application myself
+          - Join the development process myself
           - Conducting acceptance testing to ensure that requirements are met
-          - Participating in daily meetings with clients and teammates
     - role: Lead Developer
       time: August 2014 - December 2023
       company: Relia Software
@@ -108,6 +108,16 @@ projects:
     I have successfully managed over 30 mobile projects from 2014 until now, overseeing every aspect, including gathering requirements, making estimations, managing teams, communicating with clients, conducting research, and handling development.
 
   assignments:
+    - title: Nikodo
+      link: "https://nikodo.vn"
+      details: |
+        Work with Project Manager and backend team to develop the iOS application for Nikodo company. The purpose of the app is to manage devices for bird's nest farming.
+          - Switching between the Internet and local network. Can operate even when there is no active Internet.
+          - Control hardware devices
+          - View statistics of device parameters by day/week/month/year.
+          - Independent operation mode for devices, allowing them to turn on and off according to a schedule even when disconnected.
+          - User management, adding/removing users, managing support personnel.
+
     - title: Runcaster
       link: "https://apps.apple.com/in/app/runcaster/id6449932078"
       tagline: "Runcaster is a cricket tech product. Follow your favorite matches live, with match scores and player stats on your lock and home screen."
